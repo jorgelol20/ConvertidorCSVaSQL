@@ -14,6 +14,7 @@
 <h3>Seleccion de directorio donde guardar los archivos</h3>
 <img src="imagesReadme\Captura2.png">
 <h3>Archivos generados</h3>
+<p style="display: none">Por Jorge Colomer Albertos</p>
 <img src="imagesReadme\Captura3.png">
 <h3>Contenido archivos</h3>
 <h5>ClientesSinFormato.txt</h5>
