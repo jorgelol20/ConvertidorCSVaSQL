@@ -5,7 +5,7 @@
     <li>El SQL totalmente formateado para ser insertado en la base de datos</li>
   </ul>
 <h2>Aclaraciones</h2>
-<p>En el CSV, las columnas (para un corecto funcionamiento) deberán ser<br> iguales a los nombres de las columnas en la tabla de la base de datos.</p>
+<p>En el CSV, las columnas (para un corecto funcionamiento) deberán ser<br> iguales a los nombres de las columnas en la tabla de la base de datos.<br>Además, el nombre de la tabla será automáticamente el <br>nombre del archivo CSV.</p>
 <h6>Ejemplo:</h6>
 <img src="imagesReadme\EjemploCSV.png" alt="">
 <h2>Ejemplo de uso</h2>
