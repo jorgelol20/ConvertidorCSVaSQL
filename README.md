@@ -1,4 +1,4 @@
-<h1>Convertidor de CSV a un script de insercion de PostgresSQL</h1>
+<h1>Convertidor de CSV a un script de inserción de PostgresSQL</h1>
 <p>Convierte tus tablas CSV en dos archivos:</p>
   <ul>
     <li>Un txt sin formato, solo los datos</li>
